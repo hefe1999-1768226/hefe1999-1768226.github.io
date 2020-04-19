@@ -1,0 +1,36 @@
+#firstParagraph {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+#secondParagraph {
+    font-family: 'Courier New', Courier, monospace;
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+
+#centerText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+#margins {
+    margin: 20px;
+}
+
+#dottedLine {
+    border: dotted;
+}
+
+#masterFloat {
+    float: right;
+    border-radius: 35px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
